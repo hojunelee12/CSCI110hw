@@ -1,0 +1,43 @@
+Title page for our example
+Title page for our example
+Title page for our example
+Title page for our example
+
+
+
+
+
+This should be in Arial size 5
+This should be in Courier size 4
+This should be in size 3 using the default font
+This should be in Comic Sans MS size 5
+
+This is text that is not in a paragraph, what color will it be?
+
+This is a sample paragraph that will be used to demonstate the use of CSS style info
+CSS can be used to set the style for ALL paragraphs, or ALL headers, or ALL of any type of tag
+
+This is a local stylesheet declaration. The text should be blue and bold. 
+This is the sample text that will will use to demonstrate the DIV and SPAN options for formmating text.
+
+This will be in bold face text
+
+This will be italicized
+
+We can underline text
+
+We can be a little creative with the formatting tags
+Example of using pre - "pre" formatted text
+123456
+ 12345
+  1234
+   123
+    12
+     1
+Example of using a non-proportional font 123456
+ 12345
+  1234
+   123
+    12
+     1
+
